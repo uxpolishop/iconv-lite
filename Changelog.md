@@ -5,6 +5,7 @@
     * Added a test for this behavior as a separate package in ./test/webpack folder and added a job for it to Travis CI.
   * Minor updates to README.
   * Switch from instanbul to c8 for code coverage.
+  * Added getEncoder/getDecoder to typescript definitions (#229).
 
 ## 0.5.1 / 2020-01-18
 
